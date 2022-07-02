@@ -9,9 +9,9 @@ abstract，word文档格式
 （如果包中有视频，是ppt中的视频的原文件）
 
 项目所有文件位于百度网盘，网盘链接：
-
+https://pan.baidu.com/s/1mMQ6RVA5qKcRRDqog6KVxQ
 提取码：
-
+p8fr
 
 The compressed package contains the following contents:  
 A project folder named SampleProject  
@@ -19,6 +19,8 @@ PPT for pre with video
 Word document format  
 Division of labor among group members, word document format  
 (If there is a video in the package, it is the original file of the video in PPT)  
-All files of the project are located on Baidu's web disk, which is linked to: 
 
+All files of the project are located on Baidu's web disk, which is linked to: 
+https://pan.baidu.com/s/1mMQ6RVA5qKcRRDqog6KVxQ
 password:
+p8fr
