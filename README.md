@@ -12,6 +12,8 @@ abstract，word文档格式
 https://pan.baidu.com/s/1mMQ6RVA5qKcRRDqog6KVxQ
 提取码：
 p8fr
+项目视频bilibili链接：
+https://www.bilibili.com/video/BV1Za411X7Vy/?vd_source=effcac795d0db68d206320296ce5c038
 
 The compressed package contains the following contents:  
 A project folder named SampleProject  
@@ -24,3 +26,5 @@ All files of the project are located on Baidu's web disk, which is linked to:
 https://pan.baidu.com/s/1mMQ6RVA5qKcRRDqog6KVxQ
 password:
 p8fr
+bilibili link:
+https://www.bilibili.com/video/BV1Za411X7Vy/?vd_source=effcac795d0db68d206320296ce5c038
